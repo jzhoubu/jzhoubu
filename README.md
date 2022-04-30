@@ -3,7 +3,7 @@
 📖 I am a third-year PhD student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. 
 
 💻 Broadly speaking, my research interests lie in the area of **natural language processing** and **self-supervised learning**. 
-Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop, which inspire my research.
+Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop.
 
 ❤️ Besides research, I also like swimming 🏊‍♂️, board games 👾, and cocktails 🍹.
 
