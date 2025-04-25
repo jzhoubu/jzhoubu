@@ -1,6 +1,6 @@
 ### Hi, I am Jiawei Zhou 👋
 
-📖 I am a third-year PhD student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. 
+📖 I am a last-year PhD student at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Lei Chen. 
 
 💻 Broadly speaking, my research interests lie in the area of **natural language processing** and **self-supervised learning**. 
 Additionally, I am fascinated by the concepts of collective consciousness and human-in-the-loop.
